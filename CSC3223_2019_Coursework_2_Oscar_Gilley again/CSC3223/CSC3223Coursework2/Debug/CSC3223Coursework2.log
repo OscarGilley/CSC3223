@@ -1,0 +1,3 @@
+﻿  Coursework2.cpp
+C:\Users\Owner\Downloads\CSC3223_2019_Coursework_2_Oscar_Gilley again\CSC3223\CSC3223Coursework2\Coursework2.cpp(113,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  CSC3223Coursework2.vcxproj -> C:\Users\Owner\Downloads\CSC3223_2019_Coursework_2_Oscar_Gilley again\Debug\CSC3223Coursework2.exe

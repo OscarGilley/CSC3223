@@ -1,0 +1,13 @@
+﻿  CSC3223.cpp
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(113,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(113,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(114,53): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(115,60): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(129,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(130,22): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(133,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(133,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(135,19): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(212,43): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\CSC3223\CSC3223Tutorials\CSC3223.cpp(424,20): warning C4018:  '<': signed/unsigned mismatch
+  CSC3223Tutorials.vcxproj -> H:\Files\3rd year!\CSC3223 - Graphics\CSC3223 2019\CSC3223 2019\Win32\Debug\CSC3223Tutorials.exe
